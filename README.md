@@ -1,1 +1,1 @@
-# sc-pap501
+# SC paper artifact description.
